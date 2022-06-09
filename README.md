@@ -1,1 +1,1 @@
-# flask-react-wheater_forecast
+# flask-react-weather_forecast
