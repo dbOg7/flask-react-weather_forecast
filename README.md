@@ -12,7 +12,7 @@
 
 # Objectif du projet:
 
-- Station météo avec l'API openweathermap
+- station météo avec l'API openweathermap
 
 - avec le framework Flask:
     - faire appel à l'api openweathermap
